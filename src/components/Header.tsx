@@ -8,8 +8,7 @@ import React from "react";
 const navLinks = [
   { label: "Home", href: "/" },
   { label: "Posts", href: "/posts" },
-  { label: "About", href: "/about" },
-  { label: "Contact", href: "/contact" },
+  { label: "Create post", href: "/create-post" }
 ];
 
 function Header() {
